@@ -1,1 +1,1 @@
-# This a repository for my DevOps Projects
+# My DevOps Projects
